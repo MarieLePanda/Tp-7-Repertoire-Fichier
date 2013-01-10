@@ -7,6 +7,7 @@ public class Personne {
 	private String prenom;
 	private String adresse;
 	private String telephone;
+	private String genre;
 	private ArrayList <String>  listeAttribut;
 	
 	// Get & Set
