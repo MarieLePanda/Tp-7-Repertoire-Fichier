@@ -9,7 +9,7 @@ public class GestionRepertoire {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		JFrame fenetre1 = new Fenetre("Mon répertoire");
+		JFrame fenetre1 = new Fenetre("Notre rï¿½pertoire");
 		fenetre1.setVisible(true);
 	}
 }
